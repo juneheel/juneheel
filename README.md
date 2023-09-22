@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuneheel%2Fhit-counter&count_bg=%2377E1C9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 이준희입니다!
+### 🙇 안녕하세요, Back-End Programmer로 성장해나가고 있는 이준희입니다!
 
 <!-- Body -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=juneheel&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
@@ -37,6 +37,6 @@
 
 ### 🚌 Top Langs & Algorithm
 ![juneheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juneheel&show_icons=true&theme=transparent)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juneheel&layout=compact&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juneheel&layout=compact&langs_count=5)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junehee107)](https://solved.ac/profile/junehee107)
