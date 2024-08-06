@@ -35,5 +35,4 @@
 ### 🚌 Top Langs & Algorithm
 ![juneheel's GitHub stats](https://github-readme-stats.vercel.app/api?username=juneheel&show_icons=true&theme=transparent)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juneheel&layout=compact&langs_count=5)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junehee107)](https://solved.ac/profile/junehee107)
+
